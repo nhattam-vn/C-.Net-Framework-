@@ -1,0 +1,24 @@
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\bin\Debug\QLCP_DTO.dll
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\bin\Debug\QLCP_DTO.pdb
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.csproj.AssemblyReference.cache
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.csproj.CoreCompileInputs.cache
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.dll
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.pdb
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\bin\Debug\QLCP_DTO.dll
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\bin\Debug\QLCP_DTO.pdb
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.dll
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.pdb
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\bin\Debug\QLCP_DTO.dll
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\bin\Debug\QLCP_DTO.pdb
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.csproj.AssemblyReference.cache
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.csproj.CoreCompileInputs.cache
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.dll
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.pdb
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\bin\Debug\QLCP_DTO.dll
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\bin\Debug\QLCP_DTO.pdb
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.csproj.AssemblyReference.cache
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.csproj.CoreCompileInputs.cache
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.dll
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_DTO\obj\Debug\QLCP_DTO.pdb

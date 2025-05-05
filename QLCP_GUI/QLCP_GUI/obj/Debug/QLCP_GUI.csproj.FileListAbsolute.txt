@@ -1,0 +1,154 @@
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.exe.config
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.exe
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.pdb
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.AssemblyReference.cache
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangNhap.resources
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.Properties.Resources.resources
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.GenerateResource.cache
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.CoreCompileInputs.cache
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.exe
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.pdb
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.Admin.resources
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangKy.resources
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.TrangChu.resources
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.QuanLyBanHang.resources
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_BUS.dll
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DTO.dll
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_BUS.pdb
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DTO.pdb
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.Up2Date
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangNhapAdmin.resources
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DAO.dll
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DAO.pdb
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.exe.config
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.exe
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.pdb
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_BUS.dll
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DTO.dll
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DAO.dll
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_BUS.pdb
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DTO.pdb
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DAO.pdb
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.Admin.resources
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.capnhatmatkhau.resources
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangKy.resources
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangNhap.resources
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangNhapAdmin.resources
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.KhachHang.resources
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.ThongTintk.resources
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.ThongTintkAdmin.resources
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.TrangChu.resources
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.QuanLyBanHang.resources
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.Up2Date
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.exe
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.pdb
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.exe.config
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.exe
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.pdb
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_BUS.dll
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DTO.dll
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DAO.dll
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_BUS.pdb
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DTO.pdb
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DAO.pdb
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.Admin.resources
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.capnhatmatkhau.resources
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangKy.resources
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangNhap.resources
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangNhapAdmin.resources
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.ThongTintk.resources
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.ThongTintkAdmin.resources
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.TrangChu.resources
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.QuanLyBanHang.resources
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.Up2Date
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.exe
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.pdb
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.GiaoDienInHoaDon.resources
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.exe.config
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.exe
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.pdb
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_BUS.dll
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DTO.dll
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DAO.dll
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_BUS.pdb
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DTO.pdb
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DAO.pdb
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.AssemblyReference.cache
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.Admin.resources
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.capnhatmatkhau.resources
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangKy.resources
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangNhap.resources
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangNhapAdmin.resources
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.GiaoDienInHoaDon.resources
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.ThongTintk.resources
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.ThongTintkAdmin.resources
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.TrangChu.resources
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.Properties.Resources.resources
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.QuanLyBanHang.resources
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.GenerateResource.cache
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.CoreCompileInputs.cache
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.Up2Date
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.exe
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.pdb
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.AssemblyReference.cache
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.Admin.resources
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.capnhatmatkhau.resources
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangKy.resources
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangNhap.resources
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangNhapAdmin.resources
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.GiaoDienInHoaDon.resources
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.ThongTintk.resources
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.ThongTintkAdmin.resources
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.TrangChu.resources
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.QuanLyBanHang.resources
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.GenerateResource.cache
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.exe
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.pdb
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.exe.config
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.exe
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.pdb
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_BUS.dll
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DTO.dll
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DAO.dll
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_BUS.pdb
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DTO.pdb
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DAO.pdb
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.Properties.Resources.resources
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.CoreCompileInputs.cache
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.Up2Date
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.BaoCao.resources
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.exe.config
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.exe
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_GUI.pdb
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_BUS.dll
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DTO.dll
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DAO.dll
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_BUS.pdb
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DTO.pdb
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\bin\Debug\QLCP_DAO.pdb
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.AssemblyReference.cache
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.Admin.resources
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.BaoCao.resources
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.capnhatmatkhau.resources
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangKy.resources
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangNhap.resources
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.DangNhapAdmin.resources
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.GiaoDienInHoaDon.resources
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.ThongTintk.resources
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.ThongTintkAdmin.resources
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.TrangChu.resources
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.Properties.Resources.resources
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.QuanLyBanHang.resources
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.GenerateResource.cache
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.CoreCompileInputs.cache
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.csproj.Up2Date
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.exe
+D:\C#\DoAn_LapTrinhC#\DoAn_BanDienThoai\QLCP_GUI\QLCP_GUI\obj\Debug\QLCP_GUI.pdb

@@ -1,0 +1,55 @@
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_BUS.dll
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_BUS.pdb
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DAO.dll
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DTO.dll
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DAO.pdb
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DTO.pdb
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.csproj.AssemblyReference.cache
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.csproj.CoreCompileInputs.cache
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.csproj.Up2Date
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.dll
+Z:\Documents\Phú_23D\23D\caothang\NAM_HAI\hocky4\c#\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.pdb
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_BUS.dll
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_BUS.pdb
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DAO.dll
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DTO.dll
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DAO.pdb
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DTO.pdb
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.csproj.Up2Date
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.dll
+\\vmware-host\Shared Folders\Desktop\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.pdb
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_BUS.dll
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_BUS.pdb
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DAO.dll
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DTO.dll
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DAO.pdb
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DTO.pdb
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.csproj.Up2Date
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.dll
+\\vmware-host\Shared Folders\Desktop\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.pdb
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_BUS.dll
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_BUS.pdb
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DAO.dll
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DTO.dll
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DAO.pdb
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DTO.pdb
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.csproj.AssemblyReference.cache
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.csproj.CoreCompileInputs.cache
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.csproj.Up2Date
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.dll
+C:\Users\WIN11\Documents\Zalo Received Files\doancapquocgia\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.pdb
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_BUS.dll
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_BUS.pdb
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DAO.dll
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DTO.dll
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DAO.pdb
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\bin\Debug\QLCP_DTO.pdb
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.csproj.AssemblyReference.cache
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.csproj.CoreCompileInputs.cache
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.csproj.Up2Date
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.dll
+D:\C#\DOAN\DOANCAPHE_C#\QLCP_GUI\QLCP_BUS\obj\Debug\QLCP_BUS.pdb
